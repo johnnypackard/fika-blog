@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+title: Johnny's Fab Fika
+url: 
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -16,9 +16,9 @@ author: Johnny Packard
   email: johnny@johnnypackard.com
   twitter: johnnyplikesyou
 social:
-  name: Treat Template
+  name: Johnny's Fab Fika
   links:
-    - https://github.com/CloudCannon/treat-jekyll-template
+    - https://www.johnnypackard.com/
 
 # -----
 # Build
